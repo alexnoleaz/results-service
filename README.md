@@ -1,4 +1,4 @@
-# config-client-one
+# results-service
 Using config server of the [Jofrantoba](https://github.com/Develtrex/springboot-serverconfig).
 
 Functions:
